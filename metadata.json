@@ -1,0 +1,6 @@
+{
+  "name": "UPI-Pay - Premium Digital Marketplace & Streaming Platform",
+  "description": "Discover, preview, and unlock premium video courses, AI tools, developer resources, and digital assets with instant credit wallet and protected-content streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

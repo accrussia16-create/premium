@@ -1,0 +1,15 @@
+{
+  "short_name": "UPI-Pay",
+  "name": "UPI-Pay - Premium Digital Marketplace",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#07090F",
+  "theme_color": "#7C5CFF",
+  "display": "standalone"
+}
